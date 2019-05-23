@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Projects"
+    url: https://www.vitorbernardes.com/projects/
   - title: "About"
     url: https://www.vitorbernardes.com/about/
   # - title: "Sample Posts"
