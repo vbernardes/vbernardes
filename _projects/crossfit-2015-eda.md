@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/crossfit-eda-1.png
 gallery:
   - url: /assets/images/crossfit-eda-1.png
-    image_path: /assets/images/crossfit-eda-1-th.png
+    image_path: /assets/images/crossfit-eda-1.png
     alt: "Crossfit EDA Plot 1"
     title: "Distribution of Athletes by Age and Category"
   - url: /assets/images/crossfit-eda-2.png
