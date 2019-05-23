@@ -2,12 +2,12 @@
 title: "Crossfit Leaderboard EDA"
 excerpt: "Exploratory Data Analysis on the CrossFit 2015 Leaderboard data."
 header:
-  teaser: /assets/images/crossfit-eda-teaser.png
+  teaser: /assets/images/crossfit-eda-1.png
 gallery:
   - url: /assets/images/crossfit-eda-1.png
     image_path: /assets/images/crossfit-eda-1-th.png
     alt: "Crossfit EDA Plot 1"
-    title: "Mean Score by Age"
+    title: "Distribution of Athletes by Age and Category"
   - url: /assets/images/crossfit-eda-2.png
     image_path: /assets/images/crossfit-eda-2.png
     alt: "Crossfit EDA Plot 2"
