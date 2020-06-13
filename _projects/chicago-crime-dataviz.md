@@ -14,4 +14,6 @@ For this project, we explored a data set about crimes in the city of Chicago in 
 * What types of socioeconomic factors influence the amount and types of crimes?
 * How effective are gun restriction laws in reducing crime?
 
-Please check out more details, the visualizations, the reasoning behind the design and the code on the [project page](https://vbernardes.github.io/chicago-crime-dataviz/).
+We also created an [interactive Shiny app](https://vitorsb.shinyapps.io/chicago_crimes_economic/) to view the relationship between socioeconomic indicators and crimes.
+
+Please check out more details, additional visualizations, the reasoning behind the design and the code on the [project page](https://vbernardes.github.io/chicago-crime-dataviz/).
