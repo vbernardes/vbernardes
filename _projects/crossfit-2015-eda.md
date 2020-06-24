@@ -1,6 +1,6 @@
 ---
-title: "Crossfit Leaderboard EDA"
-excerpt: "Exploratory Data Analysis on the CrossFit 2015 Leaderboard data."
+title: "Crossfit Leaderboard Analysis"
+excerpt: "Analysis on the CrossFit 2015 Leaderboard data."
 header:
   teaser: /assets/images/crossfit-eda-1.png
 gallery:
@@ -16,4 +16,4 @@ gallery:
 
 {% include gallery caption="Sample plots from the [final report](https://vbernardes.github.io/crossfit-2015-eda/Crossfit_2015_EDA.html)." %}
 
-The aim of this project was to perform some exploratory data analysis on data from the 2015 CrossFit Leaderboard and get some insights from it. Please check out the [project page](https://vbernardes.github.io/crossfit-2015-eda/).
+The aim of this project was to perform some exploratory analysis on data from the 2015 CrossFit Leaderboard and get some insights from it. Please check out the [project page](https://vbernardes.github.io/crossfit-2015-eda/).
